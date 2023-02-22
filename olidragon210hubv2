@@ -1,0 +1,520 @@
+local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
+
+local win = DiscordLib:Window("Olidragon210")
+
+local serv = win:Server("Preview", "")
+
+local btns = serv:Channel("Bloxfruit")
+
+btns:Button("HOHO hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/HohoHub.lua"))()
+end)
+
+btns:Seperator()
+
+btns:Button("Sharehack hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SHAREHACK/bloxfruit/main/free"))()
+end)
+
+btns:Seperator()
+
+btns:Button("PlaybackX Hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NeaPchX2/Playback-X-HUB/main/PlaybackXHub.lua"))()
+end)
+
+btns:Seperator()
+
+btns:Button("Nub hub", function()
+loadstring(game:HttpGet("https://rawscripts.net/raw/UPDATE-16-Blox-Fruits-Nub-V1-Hub-4583"))()
+end)
+
+btns:Seperator()
+
+btns:Button("Void Hub", function()
+loadstring(game:HttpGet("https://voidhubwin.xyz/Script"))()
+end)
+
+btns:Seperator()
+
+btns:Button("Neva hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VEZ2/NEVAHUBAIMBOT/main/Loader.lua"))()
+end)
+
+btns:Seperator()
+
+btns:Button("Crimson hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TirSANX/CrimsonHUB/main/C_Loader"))()
+end)
+
+btns:Seperator()
+
+btns:Button("Thunder z Hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderZ-HUB/HUB/main/Aimbot"))()
+end)
+
+btns:Seperator()
+
+btns:Button("Pado hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/REWzaKunGz1/premium/main/PadoHub"))()
+end)
+
+btns:Seperator()
+
+btns:Button("Zaque Hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mei2232/ZaqueHub/main/Zaque%20Hub"))()
+end)
+
+btns:Seperator()
+
+btns:Button("BLCK hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperIkka/Main/main/BLCKHUBKEY", true))()
+end)
+
+btns:Seperator()
+
+btns:Button("CFrame Hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CFrame3310/CFrameHub/main/BloxFruitV2.lua"))()
+end)
+
+btns:Seperator()
+
+btns:Button("Zamex hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sixnumz/ZamexMobile/main/Zamex_Mobile.lua"))()
+end)
+
+btns:Seperator()
+
+btns:Button("Uranium hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Augustzyzx/UraniumMobile/main/UraniV1.lua"))()
+end)
+
+btns:Seperator()
+
+btns:Button("Ego hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperIkka/Main/main/EgoLoaderMain", true))()
+end)
+
+btns:Seperator()
+
+btns:Button("Chiba hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KindIhave/ChibaHubcomeback/main/Chibacomebackbeta.txt"))()
+end)
+
+btns:Seperator()
+
+btns:Button("SAZX hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GooD1020/SAZX_KAITANANDAiMbot_update/main/README.md"))()
+end)
+
+btns:Seperator()
+
+btns:Button("ZeeHub", function()
+loadstring(game:HttpGet("https://scriptdee.com/ZeeHub.lua", true))()
+end)
+
+btns:Seperator()
+
+btns:Button("Atomic Hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ArceusXHub/atomic-hub/main/atomic-hub"))()
+end)
+
+btns:Seperator()
+
+btns:Button("Winnable Hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xlostpexz/tyuiop/Fps/Loading.lua"))()
+end)
+
+local btns1 = serv:Channel("Hub")
+
+btns1:Button("fe b genesis hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/raw-scriptpastebin/raw/main/B_Genesis"))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("animation hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Animation-Hub/main/Animation%20Gui", true))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("bloxburg autofarm scarhub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PainfulDestroyer/Roblox/main/Scar%20Hub"))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("bloxburg autofarm luxhub", function()
+loadstring(game:HttpGet("https://luxhub.cc/script.lua"))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("bloxburg autobuild", function()
+loadstring(http_request({Url="https://projectillusion.dev/beta/illusion/illusion_bloxburg.lua", Method="GET"}).Body)()
+end)
+
+btns1:Seperator()
+
+btns1:Button("fe op troll gui", function()
+loadstring(game:HttpGet(("https://pastebin.com/raw/5seCbYFa"),true))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("Salmon hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Salmon-B0T/SalmonHub/main/SalmonHub.lua", true))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("Orca hub", function()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/richie0866/orca/master/public/latest.lua"))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("astroware hub", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/4twmRpx3"))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("British Hub", function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/YourLocalNzi/Ye/main/BHob6"),true))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("FraktureSS", function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/L1ghtingBolt/FraktureSS/master/source.lua"),true))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("Dzigi Hub", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/qCSy1dPg"))();
+end)
+
+btns1:Seperator()
+
+btns1:Button("Mhrgui", function()
+loadstring(game:HttpGet ("https://raw.githubusercontent.com/Zenoolisama/-mhrgui/main/MHRGUI"))();
+end)
+
+btns1:Seperator()
+
+btns1:Button("Mini hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MiniNoobie/MINI-HUB-V2/main/FINALLY%20UPDATED%20MINI%20HUB",true))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("Nightmare Hub", function()
+loadstring(game:HttpGet(("https://pastefy.ga/lrjtanrp/raw"),true))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("fe netless hub v1", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/olivity289/fe-netless-hub-v1/main/Fe%20netless%20hub%20v1"))();
+end)
+
+btns1:Seperator()
+
+btns1:Button("Pro Hub", function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Kindasua/v.1-beta/main/Fixed%20bugs%20v.1%20beta"), true))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("snoophub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/arko34920v2/SnoophubOlivier/main/SnoophubOlivier"))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("Vhub", function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Veincx5315/Created/VHub/Simple"),true))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("IceHub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("Bitehub", function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/ayoyao3744/Electroware/main/Main%20Electroware%20Hub"), true))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("Tracer", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MichaelScripter/MiniScript/main/Spy%20gui.lua"))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("clavier pc gui v2", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("mm2 eclipse hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script", true))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("moonhub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dragon210samazeno/olidragon210hubv1/main/olidragon210hunv1"))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("synapse x", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/tWGxhNq0"))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("fly gui", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/gaz0U0XX%22"))();
+end)
+
+btns1:Seperator()
+
+btns1:Button("Fe Script Finder", function()
+loadstring(game:HttpGet(("https://pastefy.ga/x6pTVi2h/raw%27"),true))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("Da Hood Swag Mode", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002%27"))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("RTX GUI V 3.7", function()
+loadstring(game:HttpGet(("https://pastefy.ga/xXkUxA0P/raw%27"),true))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("Custom Editor Roblox", function()
+loadstring(game:HttpGet("https://eternityhub.xyz/HostStuff/JayzRoblox.lua%22))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("Brookhaven Script Hub", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/fnimPd4C%22))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("UNIVERSAL AIMBOT", function()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Wheeleee/AIMWARE/main/Startup%22)()
+end)
+
+btns1:Seperator()
+
+btns1:Button("Auto Piano v3.2", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Madness676/3.2Lol/main/AutoPiano3-2.lua", true))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("Rogue Demon hub", function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/itsyouranya/free/main/roguedemon.lua"),true))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("FE Background Autoclicker", function()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/JustEzpi/ROBLOX-Scripts/main/ROBLOX_AutoClicker"))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("OwlHub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+end)
+
+btns1:Seperator()
+
+btns1:Button("script hub", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tyreltrijo/firex/main/firex"))()
+end)
+
+btns1:Seperator()
+
+btns1:Button("Maxilitoscripthub", function()
+loadstring(game:HttpGet ("https://raw.githubusercontent.com/olivity289/Maxilitoscripthub/main/Maxilitoscripthub"))();
+end)
+
+btns1:Seperator()
+
+local btns2 = serv:Channel("Chatscript")
+
+btns2:Button("FE Chat Spy", function()
+loadstring(game:HttpGet ("https://pastebin.com/raw/VH3Ew6Y5"))();
+end)
+
+btns2:Seperator()
+
+btns2:Button("fe ChatBypass", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/x114/RobloxScripts/main/FullChatBypass"))()
+end)
+
+btns2:Seperator()
+
+btns2:Button("fe moderator chat tags", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IlllIlIIIlllIlIlllIIlIlllIlIIlllI/PartnerPSX/main/FakePartnerTag", true))()
+end)
+
+btns2:Seperator()
+
+btns2:Button("Fe Chat Troll", function()
+loadstring(game:HttpGet(("https://pastefy.ga/zCFEwaYq/raw"),true))()
+end)
+
+btns2:Seperator()
+
+btns2:Button("chat translator", function()
+loadstring(game:HttpGet ("https://github.com/Dragonmuzan210/fe-chat-translator/blob/main/Fe%20chat%20translator"))();
+end)
+
+local btns3 = serv:Channel("Admin")
+
+btns3:Button("FE fate admin", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))()
+end)
+
+btns3:Seperator()
+
+btns3:Button("FaelIs admin", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FaelTheExploiter/LuaU/main/yesssssssirrrrrrrrr", true))()
+end)
+
+btns3:Seperator()
+
+btns3:Button("Fe Simple Admin", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/3hDQcTaD"))()
+end)
+
+btns3:Seperator()
+
+btns3:Button("fe leg's admin", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/leg1337/legadmv2/main/legadminv2.lua"))()
+end)
+
+local btns4 = serv:Channel("Mapscript")
+
+btns4:Button("fe monster", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/u5RRAUMS",true))()
+end)
+
+btns4:Seperator()
+
+btns4:Button("fe vehicule fling", function()
+loadstring(game:HttpGet("https://github.com/Oluflammes/fe-vehicule-fling/commit/9b28d1563d64943672cc2910ff7f1adf5a2491ed"))();
+end)
+
+btns4:Seperator()
+
+btns4:Button("FLING ALL (SHAKE SERVER)", function()
+loadstring(game:HttpGet("https://github.com/DigitalityScripts/roblox-scripts/raw/main/loop%20fling%20all"))()
+end)
+
+btns4:Seperator()
+
+local btns5 = serv:Channel("Tools")
+
+btns5:Button("fe click fling tool", function()
+loadstring(game:HttpGet(("https://pastefy.ga/xBdd9GId/raw"),true))()
+end)
+
+btns5:Seperator()
+
+btns5:Button("fe portail gun v2", function()
+loadstring(game:HttpGet(("
+https://pastefy.ga/hXHOUgDa/raw"),true))()
+end)
+
+btns5:Seperator()
+
+local btns6 = serv:Channel("Netless")
+
+btns6:Button("Fe spectrum glitcher", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dragon210samazeno/-Fe-spectrum-glitcher/main/Fe%20spectrum%20glitcher"))();
+end)
+
+btns4:Seperator()
+
+btns6:Button("FE PARKOUR V5", function()
+loadstring(game:HttpGet(("https://pastefy.ga/Ucu1UkxZ/raw%27"),true))()
+end)
+
+btns4:Seperator()
+
+local tgls = serv:Channel("Toggles")
+
+tgls:Toggle("Auto-Farm",false, function(bool)
+print(bool)
+end)
+
+local sldrs = serv:Channel("Sliders")
+
+local sldr = sldrs:Slider("Slide me!", 0, 1000, 400, function(t)
+print(t)
+end)
+
+sldrs:Button("Change to 50", function()
+sldr:Change(50)
+end)
+
+local drops = serv:Channel("Music code id roblox")
+
+local drop = drops:Dropdown("Pick me!",{"CYBERPUNK 🔊 6911766512","RIP/read inside🖤 6658650660","SKZCRINGE/isvvc💀 6819593773","TROJAN/puma😈 6923867528","e girl 👾 6868493025","USRAP/Wanna Smoke 6772846771","Sad Nigga Hour  6806140478","INTRO 6817682704","Phonk bass 1050510419","MONSTER SCREAM 9059284808","windows XP startup 9094546337","Le billet  6950593634","Still here 7006487793","kroxxroad 6893776529","inappropriate  6555905311","Jumex loner 6847929757","Yokaivv 6909980547","Wanna Smoke/USRAP  6772846771","phonk 7987319238","Bag de griff 6841087956","Loud/earrape 6846153394","Join Z loud 6969006426","aaaaa zo 8222782975","Electric City 1838659275","Harx is fury 6909980547","Shifting  6943232352","Black and yellow 139235100","frosting of my Heart8222790838","Jumpstyle 1839246711","Hello Bozo 7516826765","Russian 9071698640","TACTICAL NUKE 1312880397","MORGENSHTERN HAWAI1837255793","SAD VIOLON 135308045"," 435240116","WASTED GTA 204074025","JOJO ATTACK 1571597070","HEAVY METAL 1837278308","RASTAMAN 1839144981","Cornemuse pour niquer vos oreilles 1840225614","Hymne des USA 1840297374","AAAAAAAAA 2006547142","y'a des noirs ici 2473639958","WAAAAW KAWAI 2976402600","BRUH 4572116031","CHIASSE 4809574295","FNAF 5216480240","SIREN HEAD 5681392704","BLOOD POP 6783714255","Rire bizzare 9094639541","Rose By Lukrembo 9123682910","prxjex 6943232352","clear 6808292148","get of me 6817682704","deep and dirty 1836785943","dead inside 6658650660","phonk bresil 6896624865","Printer 29 argh 6435679021","Give me somes skittles  4239002503","car bump 7702262254","oof 6834218705","MIDNIGHT 1840038982","Spy/Nox Song 6674211522","horror clip 8352728971","escape 8420609252","short loop 3238478423","noise pour te faire saigner les oreilles 7713890963","long loop 4760592831","On That Time 8002015002","Weird Chickmonk Noises XDXD 930863009","phonk loop 7633589815","Thugs Aint Lame 2626152169","dbeatloop 4518898538","loop 7175701891","MLODY MVRC11496564854","THAT GUY 1841374480","Fnaf living Tombstone 6412753946"}, function(bool)
+print(bool)
+end)
+
+drops:Button("Clear", function()
+drop:Clear()
+end)
+
+drops:Button("Add option", function()
+drop:Add("Option")
+end)
+
+local clrs = serv:Channel("Colorpickers")
+
+clrs:Colorpicker("ESP Color", Color3.fromRGB(255,1,1), function(t)
+print(t)
+end)
+
+local textbs = serv:Channel("Textboxes")
+
+textbs:Textbox("Gun power", "Type here!", true, function(t)
+print(t)
+end)
+
+local lbls = serv:Channel("Labels")
+
+lbls:Label("This is just a label.")
+
+local bnds = serv:Channel("Binds")
+
+bnds:Bind("Kill bind", Enum.KeyCode.RightShift, function()
+print("Killed everyone!")
+end)
+
+serv:Channel("by dawid#7205")
+
+win:Server("Main", "http://www.roblox.com/asset/?id=6031075938")
